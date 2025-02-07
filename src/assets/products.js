@@ -65,7 +65,7 @@ export const europeanDelights = [
   {
     name: 'Пельмени с уткой',
     description: 'Домашние пельмени с сочной уткой.',
-    image: require('./product_1.jpg'),
+    image: require('./product_10.jpg'),
     price: 26,
     count: 1,
   },
